@@ -1,1 +1,1 @@
-![](zelda portal image.gif)
+![](zelda-portal-image.gif)
