@@ -1,11 +1,11 @@
 ## Twilight Portal Example
 
-**Inside zelda game**
+**Zelda Twilight Princess**
 
 ![](zeldaoriginalportal.gif)
 
 
-**Unity Example**
+**Unity**
 
 ![](zeldaportal.gif)
 
